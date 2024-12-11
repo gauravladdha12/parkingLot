@@ -1,8 +1,8 @@
-package models;
+package org.personal.parkinglot.models;
 
-import models.enums.BillState;
-import models.gate.ExitGate;
-import models.user.Operator;
+import org.personal.parkinglot.models.enums.BillState;
+import org.personal.parkinglot.models.gate.ExitGate;
+import org.personal.parkinglot.models.user.Operator;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

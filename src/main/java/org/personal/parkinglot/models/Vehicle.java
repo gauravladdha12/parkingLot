@@ -1,7 +1,7 @@
-package models;
+package org.personal.parkinglot.models;
 
-import models.enums.VehicleType;
-import models.user.User;
+import org.personal.parkinglot.models.enums.VehicleType;
+import org.personal.parkinglot.models.user.User;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

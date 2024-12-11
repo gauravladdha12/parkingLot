@@ -1,8 +1,8 @@
-package models.gate;
+package org.personal.parkinglot.models.gate;
 
-import models.BaseModel;
-import models.Floor;
-import models.user.Operator;
+import org.personal.parkinglot.models.BaseModel;
+import org.personal.parkinglot.models.Floor;
+import org.personal.parkinglot.models.user.Operator;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

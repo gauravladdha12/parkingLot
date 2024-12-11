@@ -1,4 +1,4 @@
-package models.enums;
+package org.personal.parkinglot.models.enums;
 
 public enum ParkingStatus {
     FREE,

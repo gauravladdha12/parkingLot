@@ -1,6 +1,6 @@
-package models.user;
+package org.personal.parkinglot.models.user;
 
-import models.BaseModel;
+import org.personal.parkinglot.models.BaseModel;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

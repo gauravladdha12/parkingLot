@@ -1,7 +1,7 @@
-package models;
+package org.personal.parkinglot.models;
 
-import models.enums.ParkingStatus;
-import models.enums.SlotType;
+import org.personal.parkinglot.models.enums.ParkingStatus;
+import org.personal.parkinglot.models.enums.SlotType;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;

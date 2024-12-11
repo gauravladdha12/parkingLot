@@ -1,4 +1,4 @@
-package models.user;
+package org.personal.parkinglot.models.user;
 
 public enum UserType {
     CUSTOMER,

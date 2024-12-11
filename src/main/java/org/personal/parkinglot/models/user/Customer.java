@@ -1,8 +1,8 @@
-package models.gate;
+package org.personal.parkinglot.models.user;
 
 import lombok.AccessLevel;
 import lombok.experimental.FieldDefaults;
 
 @FieldDefaults(level = AccessLevel.PRIVATE)
-public class ExitGate extends Gate{
+public class Customer extends User {
 }
